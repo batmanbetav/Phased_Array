@@ -1,4 +1,4 @@
-Phased Array Simulation
+# Phased Array Simulation
 ## How to Run
 1. Clone the Repo
 2. Go to the Shadertoy Phased Array Simulator online tool - https://www.shadertoy.com/view/NdXfDl
