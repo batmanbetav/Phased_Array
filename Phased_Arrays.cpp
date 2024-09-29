@@ -1,7 +1,7 @@
 const float timeScale = 0.000005;
 
 const float frequency = 40000.0;
-const float speedOfSound = 343.46; //at 20°C
+const float speedOfSound = 343.46; //at  20°C
 const float waveLength = 0.00825; //wavelength of our phased array signal
 
 const int startSourceCount = 6; // no of elements in our array
